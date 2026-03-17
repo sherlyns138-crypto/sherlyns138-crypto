@@ -14,6 +14,7 @@
 ## 📂 Featured Projects
 - [Tic Tac Toe Game](https://github.com/sherlyns138-crypto/Tic-Tac-Toe-Game) – A browser-based game with AI mode
 - [RecipeJS - Your Functional Cooking Companion](https://github.com/sherlyns138-crypto/recipejs-functional-cooking) - Meet your Cooking Companion!
+- [SkyFetch - API Weather Dashboard](https://github.com/sherlyns138-crypto/skyfetch-weather-dashboard) - Fully deployed, professional weather dashboard!
 
 ## 📫 Connect with Me
 - [LinkedIn] (https://www.linkedin.com/in/sherly-n-407881382/)
